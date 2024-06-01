@@ -47,3 +47,15 @@ a
   width: 20px;
   margin-left: 20px;
 }
+
+.btn.dark-btn
+{
+  background: #212EA0;
+  color: #fff;
+}
+
+.btn.dark-btn:hover
+{
+  background-color: #212121;
+  transition: 0.5s;
+}
